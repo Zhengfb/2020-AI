@@ -1,4 +1,4 @@
-# Summer2020-AI
+# 2020-AI
 
 by zfb
 
